@@ -1,8 +1,4 @@
-/* xAPI Statment provides the customizable js functions that are called by the player.
-
-Please note that this file is specific to projects developed in Articualte Storyline and that use standardized variables.
-
-Whose determined these standardized variables? Are, they industry standard? I did. No. - The GrumpyID */
+/* xAPI Statment provides the customizable js functions that are called by the player. Please note that this file is specific to projects developed in Articualte Storyline and that use standardized variables. Whose determined these standardized variables? Are, they industry standard? I did. No. - The GrumpyID */
 
 var cSeconds = 0;
 var sSeconds = 0;
